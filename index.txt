@@ -1,0 +1,220 @@
+Drew Hays - Get your product identity from me.
+
+This is a personal portfolio html template made by codewithsadee
+
+
+
+#---------- HEADER ----------#
+
+alt = logo
+
+alt = logo
+
+aria-label = close menu
+<ion-icon name="close-outline" aria-hidden="true"></ion-icon>
+
+Home
+Services
+About
+Project
+Review
+Contact
+
+Get A Quote
+
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+aria-label = open menu
+
+
+
+#---------- HERO ----------#
+
+alt = Drew Hays
+
+Drew Hays
+
+Get Your Product Identity From Me.
+
+Download CV
+<ion-icon name="cloud-download-outline" aria-hidden="true"></ion-icon>
+
+From device to cloud to edge Innovate from anywhere with secure
+
+
+
+#---------- SERVICE ----------#
+
+alt = service icon
+
+Web
+Development
+
+Digital
+Marketing
+
+Graphics
+Design
+
+Mobile
+Application
+
+
+
+#---------- ABOUT ----------#
+
+About Me
+Skillset
+Interview
+Awwards
+Exhibition
+
+ABOUT TAB
+----------
+alt = about banner
+
+A very small stage in a vast cosmic.
+
+A very small stage in a vast cosmic arena great turbuslent clouds encyclo-paedia galactica star stuff harvesting star light the carbon in our apple pies realm of the galaxies
+
+Name
+Drew Hays
+
+Phone Number
+123. 456. 789. 01
+
+Email Address
+info@drew.com
+
+Social Network
+
+title = Facebook
+Fb.
+
+title = Behance
+Be.
+
+title = Linkedin
+Ln.
+
+title = Dribbble
+Dr.
+
+SKILLSET TAB
+---------
+We help to create visual strategies.
+
+A very small stage in a vast cosmic arena great turbuslent clouds encyclo-paedia galactica star stuff harvesting star light
+
+Website Development
+95%
+
+Design UI & UX
+85%
+
+alt = skill banner
+
+INTERVIEW TAB
+-------------
+alt = interview 1
+
+play
+
+AWARD TAB
+----------
+We’re a team of creatives who are excited about unique ideas and help IT-tech companies to make identity by crafting UI/UX.
+
+alt = certificate
+
+EXHIBITION TAB
+--------------
+
+alt = image
+<ion-icon name="image-outline" aria-hidden="true"></ion-icon>
+
+alt = video
+<ion-icon name="logo-youtube"></ion-icon>
+
+alt = music
+<ion-icon name="logo-soundcloud"></ion-icon>
+
+
+
+#---------- CTA ----------#
+
+Let's Work Together On Your Next Project!
+
+Hire Me Now
+
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+
+
+#---------- PROJECTS ----------#
+
+alt = Project poster: Creative & experienced digital design studio
+
+Project Details
+
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+Web, Product
+
+Creative & experienced digital design studio
+
+
+Front End Development & Maintenance
+
+Flutter Framework & Warframe Design
+
+Full Web Development Project With JavaScript
+
+Cloud Migration & AWS Services
+
+
+
+#---------- TESTIMONIALS ----------#
+
+The average national hourly rate for house cleaning services is $25 to $90 per individual, or $50 to $90 per hour. The size and condition of your home will strongly impact the price of these.
+
+Alexis browni JR.
+
+Founder of alxis co.
+
+
+
+#---------- CONTACT ----------#
+
+Get In Touch
+
+placeholder = Full name
+placeholder = Email address
+placeholder = Phone
+placeholder = Enter massges
+
+Get A Quote
+
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+map src = https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d898.4329239267093!2d-73.91493787358391!3d40.76299026683699!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sbd!4v1671529019371!5m2!1sen!2sbd
+
+alt = contact icon
+
+869. 368. 456. 56
+789 (569) 126 35
+
+30- 24 Newtown Rd, Queens,
+NY 11103, USA
+
+info@drew.com
+jobs@drew.com
+
+
+
+#---------- FOOTER ----------#
+
+Copyright & Design By @codewithsadee - 2022
+
+Back To Top
+
+<ion-icon name="arrow-up" aria-hidden="true"></ion-icon>
